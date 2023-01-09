@@ -26,3 +26,7 @@ $ npm start
 
 Check web<br/>
 http://localhost:3000
+
+Step 2 Create base components
+
+See code.
