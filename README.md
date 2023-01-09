@@ -70,3 +70,17 @@ class Square extends React.Component {
     };
 }
 ```
+
+## Install React Developer Tools to browser
+
+for Chrome
+- https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi
+
+# Step 4. Completing the Game
+
+## Lifting State Up
+
+Move Square property to Board
+
+See code difference.
+
